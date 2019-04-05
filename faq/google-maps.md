@@ -17,10 +17,15 @@
 
 ### Enable Geocoding API
 ![gm-06.png](../.gitbook/assets/gm-06.png)
+
 ![gm-07.png](../.gitbook/assets/gm-07.png)
+
 ![gm-08.png](../.gitbook/assets/gm-08.png)
 
 ### Secure your API key
+
 ![gm-09.png](../.gitbook/assets/gm-09.png)
+
 ![gm-10.png](../.gitbook/assets/gm-10.png)
+
 ![gm-11.png](../.gitbook/assets/gm-11.png)
