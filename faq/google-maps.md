@@ -35,3 +35,4 @@
 Then go to WP admin panel > Appearance > Customize  and then Theme Settings > General and paste your API Key
 
 ![gm-12.png](../.gitbook/assets/gm-12.png)
+
