@@ -38,5 +38,6 @@
   * [Instagram widget](faq/instagram-widget.md)
   * [Add Rail Carousel to a Page](faq/add-rail-carousel-to-a-page.md)
   * [Add Double Carousel to a Page](faq/add-double-carousel-to-a-page.md)
+  * [Configure Google Maps](faq/google-maps.md)
 * [‌Change Log](changelog.md)
 
