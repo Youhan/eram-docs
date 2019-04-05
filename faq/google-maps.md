@@ -1,6 +1,6 @@
 # Configure Google Maps
 
-### Go to [Google Maps Platform](https://cloud.google.com/maps-platform/?apis=maps) and click on the  
+### Go to [Google Maps Platform](https://cloud.google.com/maps-platform/?apis=maps) and click on the Get Started button
 ![gm-01.png](../.gitbook/assets/gm-01.png)
 
 ### Create a new project
