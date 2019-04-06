@@ -4,22 +4,22 @@
 - [FIX]      WPML gallery archive fixed 
 
 **v 2.7.2 - 04 APR 2019** 
-- [UPDATE] Updates Page builder to v5.7
-- [NEW] Adds native Auto-update for theme
-- [NEW] Adds Invert and Normal option at theme customers for gallery archive for simple horizontal gallery
+- [UPDATE]    Updates Page builder to v5.7
+- [NEW]       Adds native Auto-update for theme
+- [NEW]       Adds Invert and Normal option at theme customers for gallery archive for simple horizontal gallery
 
 **V2.6.0 – 11 FEB 2019**
-- [NEW] Filterable Gallery by category
-- [NEW] Added selected photos in proof gallery
-- [NEW] Added photo list in notification email
-- [NEW] Added Search to header
-- [FIXED] Fonts
-- [NEW] Select in fullscreen mode proof gallery
-- [NEW] Added clickable video background element with caption 
-- [UPDATE] updated language files
-- Compatibility with WP 5
-- Updates Visual Composer to v 5.6.0
-- Minor fixes.
+- [NEW]     Filterable Gallery by category
+- [NEW]     Added selected photos in proof gallery
+- [NEW]     Added photo list in notification email
+- [NEW]     Added Search to header
+- [FIXED]   Fonts
+- [NEW]     Select in fullscreen mode proof gallery
+- [NEW]     Added clickable video background element with caption 
+- [UPDATE]  updated language files
+- [UPDATE]  Compatibility with WP 5
+- [UPDATE]  Updates Visual Composer to v 5.6.0
+- [FIXED]   Minor fixes.
 
 **V2.5.0 – 16 MAY 2018**
 - Compatibility to WP 4.9.5
