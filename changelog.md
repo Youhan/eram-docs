@@ -1,5 +1,8 @@
 # ‌Change Log
 
+**v 2.7.3 - 06 APR 2019** 
+- [FIX]      WPML gallery archive fixed 
+
 **v 2.7.2 - 04 APR 2019** 
 - [UPDATE] Updates Page builder to v5.7
 - [NEW] Adds native Auto-update for theme
