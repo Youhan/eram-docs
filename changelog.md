@@ -1,5 +1,12 @@
 # ‌Change Log
 
+**v 2.8.0 - 17 AUG 2019** 
+- [FIX]      fix create_function and compatibility with PHP 7.2
+- [UPDATE]    Updated WPBakery to 6.0.5
+- [UPDATE]    Updated Slider Revolution to v6.0.7
+- [UPDATE]    Compatibility with WooCommerce v3.7.0
+
+
 **v 2.7.3 - 06 APR 2019** 
 - [FIX]      WPML gallery archive fixed 
 
